@@ -1,2 +1,2 @@
 ### Talha TOĞUŞLU 👋
-![](https://komarev.com/ghpvc/?username=TalhaToguslu)
+![](https://komarev.com/ghpvc/?username=TalhaToguslu&style=flat-square)
